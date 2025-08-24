@@ -1,6 +1,7 @@
 package exercicios.exe08.test;
 
 import exercicios.exe08.dominio.Funcionario;
+
 import java.util.Scanner;
 
 public class FuncionarioTest01 {

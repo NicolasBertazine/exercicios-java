@@ -19,9 +19,9 @@ public class Aluno {
     public void foiAprovado() {
         media();
         if (media() > 6) {
-            System.out.println("Com a média de "+ media()+" você foi APROVADO!");
+            System.out.println("Com a média de " + media() + " você foi APROVADO!");
         } else {
-            System.out.println("Com a média de "+ media()+" você foi REPROVADO!");
+            System.out.println("Com a média de " + media() + " você foi REPROVADO!");
         }
     }
 
